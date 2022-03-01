@@ -2,7 +2,7 @@
 
 This is an Embedded field related project, which is done by the Layered model and drivers,
 
-This is a FAN Controller which is made by a DC-Motor(FAN), L293D(for serving the required voltage need for the dc-motor), LCD, LM35(Temperature Sensor), Oscilloscope(to show the input signal to the motor and coming out from the microcontroller) and controlled by an AVR ATMEGA16 microcontroller,
+This is a FAN Controller which is made of a DC-Motor(FAN), L293D(for serving the required voltage need for the dc-motor), LCD, LM35(Temperature Sensor), Oscilloscope(to show the input signal to the motor and coming out from the microcontroller) and controlled by an AVR ATMEGA16 microcontroller,
 
 This Project is consisted of the following drivers:
 ADC , LCD , DC-Motor , GPIO , LM35 , PWM and (std_types and common macros) libraries,
